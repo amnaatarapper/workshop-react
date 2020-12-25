@@ -1,0 +1,12 @@
+.hero {
+  height: 93vh;
+  overflow: hidden;
+}
+
+.hero img {
+  object-fit: contain;
+}
+
+.services {
+  background-color: rgb(196, 196, 196);
+}
